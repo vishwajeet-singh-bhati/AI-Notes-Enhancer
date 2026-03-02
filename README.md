@@ -1,5 +1,6 @@
 # ✦ Meaning-Preserving Notes Enhancer
-
+## Live App link:
+->https://my-notes-enhancer.vercel.app
 A sophisticated, AI-powered writing assistant that elevates your prose while strictly maintaining your original intent. Built with **React**, **Groq (Llama 3)**, and **Google Gemini Embeddings**.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
