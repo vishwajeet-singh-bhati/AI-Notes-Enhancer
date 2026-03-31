@@ -73,7 +73,7 @@ $$Similarity = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| 
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have ideas for new tone prompts or UI improvements, feel free to fork the repo and submit a PR.
+Contributions are welcome!If you have ideas for new tone prompts or UI improvements, feel free to fork the repo and submit a PR.
 
 ---
 
